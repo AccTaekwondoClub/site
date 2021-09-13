@@ -628,3 +628,23 @@ color: black;
     }
 
 }
+
+
+
+
+
+
+/*youtube*/
+.youtube{
+    padding: 10px 10px;
+    align-items: center;
+    padding-top: 20px;
+}
+
+#youtube h3{
+text-align: center;
+color: white;
+font-size: 3rem;
+padding-top: 15px;
+padding-bottom: 15px;
+}
