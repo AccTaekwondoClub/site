@@ -482,7 +482,7 @@ section{
 }
 
 .footer{
-    background:     #696969;
+    background: black;
     text-align: center;
 }
 
@@ -502,8 +502,10 @@ section{
 }
 
 .footer .share a:hover{
-    background-color: black;
+    background-color: white;
+    color: black;
 }
+
 
 .footer .links{
     display: flex;
@@ -522,7 +524,8 @@ section{
 }
 
 .footer .links a:hover{
-    background:black;
+    background:white;
+    color: black;
 }
 
 .footer .credit{
@@ -533,11 +536,11 @@ section{
 }
 
 .footer .credit span{
-    color:var(--main-color);
+    color: white;
 }
 
 .devto{
-    color:black;
+    color:white;
     font-family:'Yanone Kaffeesatz', sans-serif;
 }
 
