@@ -566,7 +566,7 @@ color: black;
 .iframe-container{
   position: relative;
   width: 95%;
-  padding-bottom: 56.25%; 
+  padding-bottom: 55.25%; 
   height: 0;
 }
 .iframe-container iframe{
