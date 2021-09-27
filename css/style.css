@@ -630,7 +630,7 @@ color: black;
     .header .navbar{
         position: absolute;
         top:100%; right: -100%;
-        background:url(../images/nav.jpg) no-repeat;
+        background:url(../images/nav.jpg);
         width: 30rem;
         height: calc(100vh - 9.5rem);
     }
