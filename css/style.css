@@ -578,7 +578,23 @@ color: black;
 }
 
 
+/*nav share*/
 
+.header .share{
+    padding:1rem 0;
+}
+
+.header .share a{
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2.3rem;
+    color:#fff;
+}
+
+.header .share a:hover{
+    color: blue;
+}
 
 
 
