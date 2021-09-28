@@ -603,11 +603,35 @@ color: black;
     font-size: 3rem;
     color: white;
     font-style: uppercase;
+  font-family: 'Scheherazade New', serif;
+  text-align: left;
+  padding-bottom: 10px;
 }
 
+.faqp{
+    font-size: 1.3rem;
+    color: white;
+    text-align: left;
+}
 
+.faq-txt1{
+    font-size: 3rem;
+    color: red;
+    font-style: uppercase;
+  font-family: 'Scheherazade New', serif;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
 
-
+.faq-txt1 span{
+    font-size: 3rem;
+    color: green;
+    font-style: uppercase;
+  font-family: 'Scheherazade New', serif;
+  text-align: left;
+  padding-bottom: 10px;
+}
 
 
 /* media queries  */
