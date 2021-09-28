@@ -598,7 +598,12 @@ color: black;
 }
 
 
-
+/*--faq--*/
+.faq-txt{
+    font-size: 3rem;
+    color: white;
+    font-style: uppercase;
+}
 
 
 
@@ -676,8 +681,6 @@ color: black;
     }
 
 }
-
-
 
 
 
