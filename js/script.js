@@ -13,4 +13,3 @@ window.onscroll = () =>{
     cartItem.classList.remove('active');
 }
 
-
