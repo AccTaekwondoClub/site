@@ -708,10 +708,17 @@ color: black;
 
 
 
+/*btf*/
+#btf .btn{
+   font-style: normal;
+   color: red;
+   background: transparent;
+   border: none;
+}
 
-
-
-
+#btf .btn::hover{
+    background:green;
+}
 /*panel*/
 
 #bang{
