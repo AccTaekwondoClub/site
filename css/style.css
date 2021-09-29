@@ -565,7 +565,7 @@ color: black;
 /*youtube*/
 .iframe-container{
   position: relative;
-  width: 101%;
+  width: 102%;
   padding-bottom: 55.25%; 
   height: 0;
 }
@@ -573,8 +573,8 @@ color: black;
   position: absolute;
   top:0;
   left:0;
-  width: 101%;
-  height: 101%;
+  width: 102%;
+  height: 102%;
 }
 
 
